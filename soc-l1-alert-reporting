@@ -1,0 +1,10 @@
+# SOC L1 Alert Reporting
+**Platform:** TryHackMe  
+**Date:** 14 May 2026
+## What I learned
+- How to properly document and report security alerts
+- Alert structure and format used in real SOC environments
+- How to classify alerts and write clear incident reports
+## Key Takeaways
+- Clear reporting is critical for escalation to L2 analysts
+- Every alert needs context (5Ws): Who, What, When, Where, Why.
